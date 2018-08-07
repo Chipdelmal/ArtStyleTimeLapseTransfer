@@ -1,0 +1,14 @@
+#####################################
+# Media and other bloat-prone files
+#####################################
+*.png
+*.ppt
+*.pptx
+*.mov
+*.avi
+*.jp2
+*.eps
+*.doc
+*.docx
+*.pdf
+*.jpg
