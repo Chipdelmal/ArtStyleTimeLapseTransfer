@@ -9,21 +9,21 @@ These are four examples of the results of running the algorithm. Three of them a
 
 ### Van Gogh
 
- <img src="./Output/PreTrained/Style2/VanGogh.gif" width="100%">
+ <img src="./Output/PreTrained/Style2/VanGogh.gif" width="50%">
 
 ### Munch
 
- <img src="./Output/Seeded/Style1/Munch.gif" width="100%">
+ <img src="./Output/Seeded/Style1/Munch.gif" width="50%">
 
 ### Cezanne
 
- <img src="./Output/PreTrained/Style3/Cezanne.gif" width="100%">
+ <img src="./Output/PreTrained/Style3/Cezanne.gif" width="50%">
 
 ### Monet
 
- <img src="./Output/PreTrained/Style1/Monet.gif" width="100%">
+ <img src="./Output/PreTrained/Style1/Monet.gif" width="50%">
 
 
 ## Author
 
-<a href="https://chipdelmal.github.io/">Ph.D. Héctor M. Sánchez C.</a><br>
+<a href="https://chipdelmal.github.io/">Héctor M. Sánchez C.</a><br>
