@@ -1,7 +1,7 @@
 # Art Style TimeLapse Transfer
 
 This is a simple implementation of an artistic style transfer machine learning application. The idea was inspired by the movie "Loving Vincent" (http://lovingvincent.com/).
-This _Mathematica_ implementation is mean for demonstration purposes only, as there are much more robust frameworks to do this (such as: https://github.com/cysmith/neural-style-tf).
+This _Mathematica_ implementation is mean for demonstration purposes only, as there are much more robust frameworks to do this, such as: https://github.com/cysmith/neural-style-tf (thanks to <a href="https://github.com/biyonka">Biyonka Liang</a> for the framework recommendation).
 
 ## Examples
 
